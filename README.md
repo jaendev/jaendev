@@ -1,16 +1,36 @@
-## Hi there 👋
+# ¡Hola! 👋
 
-<!--
-**jaendev/jaendev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
+Desarrollador web en formación, estudiante de segundo año del CFGS en Desarrollo de Aplicaciones Web (INS Pedralbes) con base técnica del CFGM en Sistemas Microinformáticos y Redes (IES Badalona VII).
 
-Here are some ideas to get you started:
+## Tecnologías
+### Frontend
+- HTML, CSS, Tailwind CSS
+- JavaScript, TypeScript
+- Vue, Nuxt
+- React, React Native, Next.js
+- Angular
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Backend
+- PHP, Laravel
+- Node.js
+- .NET
+- SQL
+
+### DevOps & Herramientas
+- GitHub Actions
+- Docker
+- Despliegue en producción
+- Administración de Moodle
+
+## Mi enfoque
+Desarrollador serio y adaptable, orientado a soluciones. Disfruto de los retos técnicos, la automatización de procesos y el trabajo en equipo para crear soluciones de calidad.
+
+## Aprendiendo actualmente
+[Puedes añadir aquí tecnologías que estés aprendiendo actualmente]
+
+## Proyectos destacados
+[Aquí puedes enlazar tus repositorios más interesantes]
+
+## Contacto
+[Tus redes sociales profesionales o correo]
