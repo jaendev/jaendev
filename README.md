@@ -1,7 +1,7 @@
 # ¡Hola! 👋
 
 ## Sobre mí
-Desarrollador web en formación, estudiante de segundo año del CFGS en Desarrollo de Aplicaciones Web (INS Pedralbes) con base técnica del CFGM en Sistemas Microinformáticos y Redes (IES Badalona VII).
+Actualmente trabajo como Desarrollador Backend con .NET mientras completo mi formación como estudiante de segundo año del CFGS en Desarrollo de Aplicaciones Web (INS Pedralbes). Cuento con base técnica del CFGM en Sistemas Microinformáticos y Redes (IES Badalona VII).
 
 ## Tecnologías
 ### Frontend
