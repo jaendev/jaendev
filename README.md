@@ -33,4 +33,4 @@ Desarrollador serio y adaptable, orientado a soluciones. Disfruto de los retos t
 [Aquí puedes enlazar tus repositorios más interesantes]
 
 ## Contacto
-[Tus redes sociales profesionales o correo]
+Puedes contactarme en: [infobrian03@gmail.com](mailto:infobrian03@gmail.com)
