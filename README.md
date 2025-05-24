@@ -13,7 +13,6 @@ Desarrollador serio y adaptable, orientado a soluciones. Disfruto de los retos t
 - **JavaScript, TypeScript**
 - **React, React Native, Next.js**
 - **Vue.js, Nuxt.js**
-- **Angular**
 
 ### Backend
 - **.NET, C#**
