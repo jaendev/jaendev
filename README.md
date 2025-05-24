@@ -1,40 +1,61 @@
-# ¡Hola! soy Brian 👋
+# ¡Hola! 👋 Soy Brian
 
-## Sobre mí
-Actualmente trabajo como Desarrollador Backend con .NET mientras completo mi formación como estudiante de segundo año del CFGS en Desarrollo de Aplicaciones Web (INS Pedralbes). Cuento con base técnica del CFGM en Sistemas Microinformáticos y Redes (IES Badalona VII).
+## 🚀 Sobre mí
 
-## Tecnologías
-### Frontend
-- HTML, CSS, Tailwind CSS
-- JavaScript, TypeScript
-- Vue, Nuxt
-- React, React Native, Next.js
-- Angular
+**Desarrollador Backend .NET** con sólida formación técnica y experiencia en desarrollo full stack. Graduado en **Desarrollo de Aplicaciones Web (DAW)** en INS Pedralbes y con base técnica en **Sistemas Microinformáticos y Redes** (IES Badalona VII).
 
-### Backend
-- PHP, Laravel
-- Node.js
-- .NET
-- SQL
-
-### DevOps & Herramientas
-- GitHub Actions
-- Docker
-- Despliegue en producción
-- Administración de Moodle
-
-## Mi enfoque
 Desarrollador serio y adaptable, orientado a soluciones. Disfruto de los retos técnicos, la automatización de procesos y el trabajo en equipo para crear soluciones de calidad.
 
-## Aprendiendo actualmente
-🌱 Actualmente estoy aprendiendo
+## 💻 Stack Tecnológico
 
-- C# con .NET Framework - Desarrollo de aplicaciones backend y sistemas empresariales
-- Next.js - Creación de aplicaciones web modernas con SSR y SSG
-- Automatización de Despliegue - Implementación de prácticas CI/CD para optimizar el desarrollo
+### Frontend
+- **HTML5, CSS3, Tailwind CSS**
+- **JavaScript, TypeScript**
+- **React, React Native, Next.js**
+- **Vue.js, Nuxt.js**
+- **Angular**
 
-## Proyectos destacados
-[Triplan](https://triplan.cat)
+### Backend
+- **.NET, C#**
+- **Node.js**
+- **PHP, Laravel**
 
-## Contacto
-Puedes contactarme en: [infobrian03@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=infobrian03@gmail.com)
+### Bases de Datos
+- **SQL**
+
+### DevOps & Herramientas
+- **Docker**
+- **GitHub Actions**
+- **CI/CD**
+- **Despliegue en producción**
+- **Administración de Moodle**
+
+## 🌱 Actualmente trabajando en
+
+- **Desarrollo Backend con .NET** - Creando APIs robustas y sistemas empresariales
+- **Automatización de procesos** - Implementando soluciones CI/CD para optimizar el desarrollo
+- **Aplicaciones modernas con Next.js** - SSR y SSG para mejor rendimiento
+- **Arquitecturas escalables** - Patrones de diseño y mejores prácticas
+
+## 📈 Experiencia
+
+✅ **Graduado en Desarrollo de Aplicaciones Web (DAW)**  
+✅ **Técnico en Sistemas Microinformáticos y Redes**  
+✅ **Desarrollador Backend .NET en activo**  
+✅ **Experiencia en proyectos full stack**  
+
+## 🎯 Objetivos 2025
+
+- Profundizar en **arquitecturas de microservicios** con .NET
+- Explorar **tecnologías cloud** (Azure, AWS)
+- Contribuir más a **proyectos open source**
+- Obtener certificaciones en **.NET**
+
+## 📫 Contacto
+
+- **Email:** [infobrian03@gmail.com](mailto:infobrian03@gmail.com)
+- **GitHub:** [@jaendev](https://github.com/jaendev)
+
+---
+
+💡 *"La mejor manera de predecir el futuro es creándolo"*
