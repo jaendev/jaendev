@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre mí
 
-**Desarrollador Backend .NET** con sólida formación técnica y experiencia en desarrollo full stack. Graduado en **Desarrollo de Aplicaciones Web (DAW)** en INS Pedralbes y con base técnica en **Sistemas Microinformáticos y Redes** (IES Badalona VII).
+**Desarrollador Backend .NET** con sólida formación técnica y experiencia en desarrollo full stack. Titulado en **Desarrollo de Aplicaciones Web (DAW)** en INS Pedralbes y con base técnica en **Sistemas Microinformáticos y Redes** (IES Badalona VII).
 
 Desarrollador serio y adaptable, orientado a soluciones. Disfruto de los retos técnicos, la automatización de procesos y el trabajo en equipo para crear soluciones de calidad.
 
