@@ -38,7 +38,7 @@ Desarrollador serio y adaptable, orientado a soluciones. Disfruto de los retos t
 
 ## 📈 Experiencia
 
-✅ **Graduado en Desarrollo de Aplicaciones Web (DAW)**  
+✅ **Titulado en Desarrollo de Aplicaciones Web (DAW)**  
 ✅ **Técnico en Sistemas Microinformáticos y Redes**  
 ✅ **Desarrollador Backend .NET en activo**  
 ✅ **Experiencia en proyectos full stack**  
