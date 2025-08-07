@@ -1,12 +1,12 @@
-# ¡Hola! 👋 Soy Brian
+# Hey! 👋 I'm Brian
 
-## 🚀 Sobre mí
+## 🚀 About Me
 
-**Desarrollador Backend .NET** con sólida formación técnica y experiencia en desarrollo full stack. Titulado en **Desarrollo de Aplicaciones Web (DAW)** en INS Pedralbes y con base técnica en **Sistemas Microinformáticos y Redes** (IES Badalona VII).
+**Backend .NET Developer** with solid technical training and experience in fullstack development. I hold a degree in **Web Application Development** from INS Pedralbes and have a technical background in **Operating Systems and Networking** from IES Badalona VII.
 
-Desarrollador serio y adaptable, orientado a soluciones. Disfruto de los retos técnicos, la automatización de procesos y el trabajo en equipo para crear soluciones de calidad.
+I'm a serious and adaptable developer, focused on delivering practical and scalable solutions. I enjoy tackling technical challenges, automating processes, and collaborating with teams to build high-quality software.
 
-## 💻 Stack Tecnológico
+## 💻 Technology Stack
 
 ### Frontend
 - **HTML5, CSS3, Tailwind CSS**
@@ -18,43 +18,38 @@ Desarrollador serio y adaptable, orientado a soluciones. Disfruto de los retos t
 - **.NET, C#**
 - **Node.js**
 - **PHP, Laravel**
+- **Java**
 
-### Bases de Datos
-- **SQL**
+### Database
+- **SQL (MySQL)**
 
-### DevOps & Herramientas
+### DevOps & Tools
 - **Docker**
 - **GitHub Actions**
 - **CI/CD**
-- **Despliegue en producción**
-- **Administración de Moodle**
+- **Production deployments**
+- **Moodle administration**
 
-## 🌱 Actualmente trabajando en
+## 🌱 Currently Working On
 
-- **Desarrollo Backend con .NET** - Creando APIs robustas y sistemas empresariales
-- **Automatización de procesos** - Implementando soluciones CI/CD para optimizar el desarrollo
-- **Aplicaciones modernas con Next.js** - SSR y SSG para mejor rendimiento
-- **Arquitecturas escalables** - Patrones de diseño y mejores prácticas
+- **.NET Backend Development** – Building robust APIs and enterprise-level systems
+- **Process Automation** – Implementing CI/CD pipelines to streamline development workflows
+- **Modern Web Apps with Next.js** – Using SSR and SSG for performance optimization
+- **Scalable Architectures** – Applying design patterns and best practices
 
-## 📈 Experiencia
+## 📈 Experience
 
-✅ **Titulado en Desarrollo de Aplicaciones Web (DAW)**  
-✅ **Técnico en Sistemas Microinformáticos y Redes**  
-✅ **Desarrollador Backend .NET en activo**  
-✅ **Experiencia en proyectos full stack**  
+✅ **Degree in Web Application Development (DAW)**  
+✅ **Technician in Microcomputer Systems and Networks**  
+✅ **Active .NET Backend Developer**  
+✅ **Experience with fullstack projects**  
 
-## 🎯 Objetivos 2025
+## 🎯 Goals for 2025
 
-- Profundizar en **arquitecturas de microservicios** con .NET
-- Explorar **tecnologías cloud** (Azure, AWS)
-- Contribuir más a **proyectos open source**
-- Obtener certificaciones en **.NET**
+- Explore **cloud technologies** (Azure, AWS)  
+- Obtain **.NET Certification**
 
-## 📫 Contacto
+## 📫 Contact
 
 - **Email:** [infobrian03@gmail.com](mailto:infobrian03@gmail.com)
 - **GitHub:** [@jaendev](https://github.com/jaendev)
-
----
-
-💡 *"La mejor manera de predecir el futuro es creándolo"*
