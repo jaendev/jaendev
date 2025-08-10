@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-**Backend .NET Developer** with solid technical training and experience in fullstack development. I hold a degree in **Web Application Development** from INS Pedralbes and have a technical background in **Operating Systems and Networking** from IES Badalona VII.
+**Backend .NET Developer** with solid technical training and experience in fullstack development. I have studied **Web Application Development** from INS Pedralbes and have a technical background in **Operating Systems and Networking** from IES Badalona VII.
 
 I'm a serious and adaptable developer, focused on delivering practical and scalable solutions. I enjoy tackling technical challenges, automating processes, and collaborating with teams to build high-quality software.
 
