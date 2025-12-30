@@ -1,55 +1,65 @@
-# Hey! 👋 I'm Brian
+# 👋 Hi, I’m JaenDev
 
-## 🚀 About Me
+## 💼 Full-Stack Developer | .NET Backend | DevOps Enthusiast | Continuous Learner
 
-**Backend .NET Developer** with solid technical training and experience in fullstack development. I have studied **Web Application Development** from INS Pedralbes and have a technical background in **Operating Systems and Networking** from IES Badalona VII.
+---
 
-I'm a serious and adaptable developer, focused on delivering practical and scalable solutions. I enjoy tackling technical challenges, automating processes, and collaborating with teams to build high-quality software.
+## About Me
 
-## 💻 Technology Stack
+I’m a **Junior Full-Stack Developer** with solid training and hands-on experience in building web applications.  
+I solve problems, automate processes, and collaborate with teams to deliver high-quality software.  
+My background in Web Development, Systems, and Networking gives me a strong foundation in both backend and frontend technologies.
 
-### Frontend
-- **HTML5, CSS3, Tailwind CSS**
-- **JavaScript, TypeScript**
-- **React, React Native, Next.js**
-- **Vue.js, Nuxt.js**
+---
 
-### Backend
-- **.NET, C#**
-- **Node.js**
-- **PHP, Laravel**
-- **Java**
+## 🛠️ Technology Stack
 
-### Database
-- **SQL (MySQL)**
+**Frontend:**  
+HTML5, CSS3, Tailwind CSS  
+JavaScript, TypeScript  
+React, Next.js, Vue, Nuxt
 
-### DevOps & Tools
-- **Docker**
-- **GitHub Actions**
-- **CI/CD**
-- **Production deployments**
-- **Moodle administration**
+**Backend:**  
+.NET (C#), Node.js, Laravel (PHP)
 
-## 🌱 Currently Working On
+**Database:**  
+SQL (MySQL, PostgreSQL)
 
-- **.NET Backend Development** – Building robust APIs and enterprise-level systems
-- **Process Automation** – Implementing CI/CD pipelines to streamline development workflows
-- **Modern Web Apps with Next.js** – Using SSR and SSG for performance optimization
-- **Scalable Architectures** – Applying design patterns and best practices
+**DevOps & Tools:**  
+Docker, GitHub Actions, CI/CD, Deployment  
+SCRUM / Agile methodologies
 
-## 📈 Experience
+---
 
-✅ **Degree in Web Application Development (DAW)**  
-✅ **Technician in Microcomputer Systems and Networks**  
-✅ **Active .NET Backend Developer**  
-✅ **Experience with fullstack projects**  
+## 🚀 Currently Working On
 
-## 🎯 Goals for 2025
+- Backend development with **.NET** (APIs, batch processes, database logic)  
+- CI/CD automation and developer workflow improvements  
+- Scalable web applications and clean architecture  
+- Full-stack web apps using **Next.js** and **React**
 
-- Explore **cloud technologies** (Azure, AWS)  
-- Obtain **.NET Certification**
+---
 
-## 📫 Contact
+## 📌 Experience / Projects
 
-- **Email:** [infobrian03@gmail.com](mailto:infobrian03@gmail.com)
-- **GitHub:** [@jaendev](https://github.com/jaendev)
+**.NET Backend Developer – SaaS environment**  
+- Developed APIs, batch processes, and database-related logic  
+- Collaborated with cross-functional teams to deliver features on time  
+- Improved internal documentation and workflows  
+
+**Full-Stack Projects (Personal / Academic)**  
+- Web apps using **React, Next.js, Vue** with **TypeScript**  
+- Backend with **.NET / Node.js / Laravel** and **SQL databases**  
+- Automated deployments using **Docker** and GitHub Actions  
+
+---
+
+## 📫 Contact Me
+
+- GitHub: [github.com/jaendev](https://github.com/jaendev)  
+- LinkedIn: [linkedin.com/in/jaendev](https://linkedin.com/in/jaendev)  
+- Email: infobrian03@gmail.com 
+
+---
+
+*Always learning | Always building | Always improving*
