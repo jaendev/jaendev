@@ -1,56 +1,53 @@
-# 👋 Hi, I’m JaenDev
-
-## 💼 Full-Stack Developer | .NET Backend | DevOps Enthusiast | Continuous Learner
-
+# 👋 Hi, I'm Brian
+## 💼 Backend Developer | .NET & Node.js | Clean Architecture | Continuous Learner
 ---
-
 ## About Me
-
-I’m a **Junior Full-Stack Developer** with solid training and hands-on experience in building web applications.  
-I solve problems, automate processes, and collaborate with teams to deliver high-quality software.  
-My background in Web Development, Systems, and Networking gives me a strong foundation in both backend and frontend technologies.
+I'm a **Backend Developer** with full-stack capabilities and hands-on experience building real-world web applications.  
+I focus on designing scalable APIs, clean architectures, and reliable systems — while being comfortable across the entire stack when needed.  
 
 ---
 
 ## 🛠️ Technology Stack
 
-**Frontend:**  
-HTML5, CSS3, Tailwind CSS  
-JavaScript, TypeScript  
-React, Next.js, Vue, Nuxt
-
 **Backend:**  
-.NET (C#), Node.js, Laravel (PHP)
+.NET (C#), Node.js, Express, NestJs, Azure Functions
+
+**Frontend:**  
+React, Next.js, Vue.js, TypeScript, Tailwind CSS
 
 **Database:**  
-SQL (MySQL, PostgreSQL)
+PostgreSQL, MongoDB, MySQL
 
 **DevOps & Tools:**  
-Docker, GitHub Actions, CI/CD, Deployment  
+Docker, GitHub Actions, CI/CD, Linux (VPS), Nginx, SSL  
 SCRUM / Agile methodologies
 
 ---
 
 ## 🚀 Currently Working On
 
-- Backend development with **.NET** (APIs, batch processes, database logic)  
-- CI/CD automation and developer workflow improvements  
-- Scalable web applications and clean architecture  
-- Full-stack web apps using **Next.js** and **React**
+- Backend APIs with **.NET** and **Node.js** using clean & hexagonal architecture  
+- Full-stack applications with **Next.js** and **PostgreSQL**  
+- VPS deployment, server configuration, and SSL setup  
+- Authentication systems with **JWT** and role-based access control
 
 ---
 
-## 📌 Experience / Projects
+## 📌 Projects
 
-**.NET Backend Developer – SaaS environment**  
-- Developed APIs, batch processes, and database-related logic  
-- Collaborated with cross-functional teams to deliver features on time  
-- Improved internal documentation and workflows  
+**PharmaCore** — Pharmacy Management System  
+- Full-stack app with **Next.js** frontend and **NestJs + PostgreSQL** backend  
+- JWT authentication with RBAC, Zod validation, and optimized DB schema (20 tables with JSONB)  
+- Resolved CORS, token management, and state synchronization challenges
 
-**Full-Stack Projects (Personal / Academic)**  
-- Web apps using **React, Next.js, Vue** with **TypeScript**  
-- Backend with **.NET / Node.js / Laravel** and **SQL databases**  
-- Automated deployments using **Docker** and GitHub Actions  
+**NexusAdmin** — API  
+- **Azure Functions** backend with **.NET 9** and **MongoDB** using hexagonal architecture  
+- **Next.js** frontend with dashboard statistics and full CRUD user management  
+- Clean separation of domain, application, and infrastructure layers
+
+**.NET Backend – SaaS Environment (IRIS Technology Solutions / MPM Software)**  
+- Developed APIs, batch processes, and database logic in production environments  
+- Collaborated with cross-functional teams and improved internal documentation and workflows
 
 ---
 
@@ -58,7 +55,8 @@ SCRUM / Agile methodologies
 
 - GitHub: [github.com/jaendev](https://github.com/jaendev)  
 - LinkedIn: [linkedin.com/in/jaendev](https://linkedin.com/in/jaendev)  
-- Email: infobrian03@gmail.com 
+- Portfolio: [portfolio.brianjaen.com](https://portfolio.brianjaen.com)  
+- Email: infobrian03@gmail.com
 
 ---
 
